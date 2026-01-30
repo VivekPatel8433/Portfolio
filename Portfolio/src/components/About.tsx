@@ -72,7 +72,7 @@ const About = () => {
             <div className="relative w-48 h-48 md:w-full md:h-auto md:aspect-square rounded-lg overflow-hidden">
               <div className="absolute inset-0 bg-primary/20 group-hover:bg-transparent transition-all duration-300 z-10" />
               <div className="w-full h-full bg-gradient-to-br from-secondary to-navy-light flex items-center justify-center">
-                <span className="text-6xl font-bold text-primary/30">VP</span>
+                <span className="text-6xl font-bold text-primary/30"><img src="profile.png"></img></span>
               </div>
             </div>
             <div className="absolute inset-0 border-2 border-primary rounded-lg translate-x-4 translate-y-4 -z-10 group-hover:translate-x-2 group-hover:translate-y-2 transition-transform duration-300" />
