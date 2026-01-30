@@ -9,7 +9,7 @@ const projects = [
     liveUrl: "https://github.com/VivekPatel8433/WorkSpace-Project",
     githubUrl: "https://github.com/VivekPatel8433/WorkSpace-Project",
     featured: true,
-    image: "/Workspace.png"
+    image: "/workspace.png"
   },
   {
     title: "Bella Vista Italian Restaurant Web App",
@@ -19,7 +19,7 @@ const projects = [
     liveUrl: "https://bella-vista-dun.vercel.app/",
     githubUrl: "https://github.com/VivekPatel8433/BellaVista",
     featured: true,
-    image: "/BellaVista.png"
+    image: "/bellaVista.png"
   },
     {
     title: "Flight Management System",
@@ -30,7 +30,7 @@ const projects = [
     liveUrl: "https://github.com/pedromolina1986/RAD_SODV2101_Final_Project",
     githubUrl: "https://github.com/pedromolina1986/RAD_SODV2101_Final_Project",
     featured: true,
-    image:"/Flight.png"
+    image:"/flight.png"
   },
   {
     title: "Investment Dashboard",
