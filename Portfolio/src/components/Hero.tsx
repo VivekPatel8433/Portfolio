@@ -27,7 +27,7 @@ const Hero = () => {
 
         {/* Description */}
         <p className="text-muted-foreground text-base md:text-lg max-w-xl mb-10 leading-relaxed opacity-0 animate-fade-up delay-400">
-          I’m a Software Developer building dynamic, user-friendly web and mobile applications, as well as accessible digital tools. I focus on clean, maintainable code and human-centered experiences that solve real problems across platforms.
+          I’m a Software Developer building dynamic, user-friendly web and cloud solutions, as well as accessible digital tools. I focus on clean, maintainable code and human-centered experiences that solve real problems across platforms.
         </p>
 
         {/* CTA Buttons */}

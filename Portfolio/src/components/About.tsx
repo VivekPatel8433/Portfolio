@@ -5,6 +5,8 @@ const skills = [
   "JavaScript (ES6+)",
   "Tailwind CSS",
   "React",
+  "TypeScript",
+  "Next.js",
   "Node.js",
   "Express",
   "MongoDB",
@@ -18,7 +20,10 @@ const skills = [
   "Java",
   "Kotlin",
   "AWS",
-  "Google Cloud"
+  "Google Cloud",
+  "Docker",
+  "Kubernates", 
+  "CI/CD"
   
 ];
 
@@ -82,10 +87,10 @@ const About = () => {
         {/* Skill Categories */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-16">
           {[
-            { icon: Code2, label: "Frontend", desc: "HTML5 & CSS3, React, Tailwind." },
-            { icon: Server, label: "Backend", desc: "Node.js, Express, C#, PHP, Java." },
-            { icon: Database, label: "Database", desc: "MongoDB, APIs, Firebase, MySQL." },
-            { icon: Palette, label: "Design", desc: "Responsive UI" },
+            { icon: Code2, label: "Frontend", desc: "HTML5 & CSS3, Tailwind CSS, React, TypeScipt, Next.js." },
+            { icon: Server, label: "Backend", desc: "Node.js, Express, APIs, C#, PHP, Java." },
+            { icon: Database, label: "Database", desc: "MongoDB, Firebase, AWS, MySQL." },
+            { icon: Palette, label: "Design", desc: "Responsive UI, Canvas" },
           ].map(({ icon: Icon, label, desc }) => (
             <div
               key={label}

@@ -60,7 +60,7 @@ const Navbar = () => {
             </button>
           ))}
           <Button variant="hero" size="sm" asChild>
-            <a href="/vivek.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/MyResume.pdf" target="_blank" rel="noopener noreferrer">
               Resume
             </a>
           </Button>
